@@ -2,15 +2,18 @@
 
 Questo repository contiene le licenze per il software sviluppato dal Team Digitale.
 
-# Checklist per un nuovo progetto
+# Checklist in breve
 
-[ ] Selezionare una licenza
-[ ] Cambiare le linee di copyright correttamente
-[ ] Copiarla nella root del repository, con nome `LICENSE`
+Per applicare correttamente una licenza, dovete:
+
+- [ ] Selezionare una licenza
+- [ ] Cambiare le linee di copyright correttamente
+- [ ] Copiarla nella root del repository, con nome `LICENSE`
 
 # Spiegazione
 
 Per applicare una licenza al vostro repository, selezionare la licenza apposita e copiarla nella cartella principale del repository, con il nome `LICENSE`
+## Selezionare una licenza
 
 In particolare, è stato scelto di usare:
 - `AGPLv3+` per tutto il software accessibile via web o che eroga un servizio via rete (es. servizio web)
@@ -18,4 +21,9 @@ In particolare, è stato scelto di usare:
 - `BSD-3-clause` per le librerie
 - `CC-BY-4` per la documentazione
 
-## Importare software esistente
+## Cambiare la riga di copyright
+
+
+## Caso tipico: importare software esistente
+
+
