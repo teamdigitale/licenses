@@ -7,8 +7,8 @@ Questo repository contiene le licenze per il software sviluppato o rilasciato da
 Per applicare correttamente una licenza, Bisogna:
 
 - [ ] Selezionare una licenza
-- [ ] Se usate BSD: Cambiare le linee di copyright nella licenza
-- [ ] Se NON usate BSD: creare un file `AUTHORS` con la riga di copyright
+- [ ] Scegliere la linea di copyright a seconda del caso in cui vi trovate
+- [ ] Eventuali step ulteriori a seconda della licenza scelta
 - [ ] Copiarla nella root del repository, con nome `LICENSE`
 
 # Spiegazione
@@ -25,7 +25,7 @@ In particolare, è stato scelto di usare:
 
 Potete copiare e incollare il testo del file direttamente nel vostro repository
 
-## Cambiare la riga di copyright
+## La riga di copyright
 
 La riga di copyright deve essere cambiata a seconda dell'origine del software.
 La licenza `BSD-3-clause` prevede che questa riga vada cambiata direttamente all'interno del file di licenza. Per le altre licenze bisogna creare un file chiamato `AUTHORS` contenente la riga di copyright.
@@ -46,4 +46,49 @@ Questo caso è più semplice e ha bisogno soltanto di una riga, perché tutte le
 Copyright (c) 2017, the respective contributors, as shown by the version control
 ```
 
-Le licenze sono già pronte per questo secondo caso, dunque bisogna fare attenzione se si
+## Step ulteriori
+
+### BSD-3-clause
+Se usate BSD, vi basta modificare la linea di copyright all'interno della licenza e inserirla all'interno del vostro codice. Il file in questo repository è già pronto per software scritto da zero.
+
+### GPLv3+
+Bisogna creare un file `README` o `README.md` che contenga, in coda, la riga di copyright corretta, e la seguente dicitura:
+
+```
+Copyright (c) 2017, the respective contributors, as shown by the version control
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+```
+### AGPLv3+
+Bisogna creare un file `README` o `README.md` che contenga, in coda, la riga di copyright corretta, e la seguente dicitura:
+
+```
+Copyright (c) 2017, the respective contributors, as shown by the version control
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+```
+
+### CC-BY-4
+Bisogna creare un file [`AUTHORS`](AUTHORS) contenente la riga di copyright.
