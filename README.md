@@ -29,7 +29,7 @@ Potete copiare e incollare il testo del file direttamente nel vostro repository
 La riga di copyright può essere cambiata a seconda dell'origine del software
 
 ### Caso 1: importare software esistente
-In questo caso il copyright deve contenere due righe, la prima che rappresenta l'ente che rilascia il software, la seconda per tutti i contributor come da log git.
+In questo caso il copyright deve contenere due righe, la prima che rappresenta l'ente che rilascia il software (che è in generale diverso dalla persona che esegue il primo commit), la seconda per tutti i contributor come da log git.
 
 Esempio con AgID:
 ```
