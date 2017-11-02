@@ -34,11 +34,12 @@ In questo caso il copyright deve contenere due righe, la prima che rappresenta l
 Esempio con AgID:
 ```
 Initial import: Copyright (c) 2017 Agenzia per l'Italia Digitale
-All other contributions: Copyright (c) 2017, the respective contributors, as shown by the version control log
+All other contributions:
+Copyright (c) 2017, the respective contributors, as shown by the version control
 ```
 
 ### Caso 2: software scritto da zero
 Questo caso è più semplice e ha bisogno soltanto di una riga, perché tutte le modifiche sono tracciate da git.
 ```
-Copyright (c) 2017, the respective contributors, as shown by the version control log
+Copyright (c) 2017, the respective contributors, as shown by the version control
 ```
