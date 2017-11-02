@@ -7,7 +7,8 @@ Questo repository contiene le licenze per il software sviluppato o rilasciato da
 Per applicare correttamente una licenza, Bisogna:
 
 - [ ] Selezionare una licenza
-- [ ] Cambiare le linee di copyright correttamente
+- [ ] Se usate BSD: Cambiare le linee di copyright nella licenza
+- [ ] Se NON usate BSD: creare un file `AUTHORS` con la riga di copyright
 - [ ] Copiarla nella root del repository, con nome `LICENSE`
 
 # Spiegazione
@@ -26,7 +27,8 @@ Potete copiare e incollare il testo del file direttamente nel vostro repository
 
 ## Cambiare la riga di copyright
 
-La riga di copyright può essere cambiata a seconda dell'origine del software
+La riga di copyright deve essere cambiata a seconda dell'origine del software.
+La licenza `BSD-3-clause` prevede che questa riga vada cambiata direttamente all'interno del file di licenza. Per le altre licenze bisogna creare un file chiamato `AUTHORS` contenente la riga di copyright.
 
 ### Caso 1: importare software esistente
 In questo caso il copyright deve contenere due righe, la prima che rappresenta l'ente che rilascia il software (che è in generale diverso dalla persona che esegue il primo commit), la seconda per tutti i contributor come da log git.
@@ -43,3 +45,5 @@ Questo caso è più semplice e ha bisogno soltanto di una riga, perché tutte le
 ```
 Copyright (c) 2017, the respective contributors, as shown by the version control
 ```
+
+Le licenze sono già pronte per questo secondo caso, dunque bisogna fare attenzione se si
