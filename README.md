@@ -17,10 +17,10 @@ Per applicare una licenza al vostro repository, selezionare la licenza apposita 
 ## Selezionare una licenza
 
 In particolare, è stato scelto di usare:
-- `AGPLv3+` per tutto il software accessibile via web o che eroga un servizio via rete (es. servizio web)
-- `GPLv3+` per tutto il software "tradizionale"
-- `BSD-3-clause` per le librerie
-- `CC-BY-4` per la documentazione
+- [`AGPLv3+`](AGPLv3+) per tutto il software accessibile via web o che eroga un servizio via rete (es. servizio web)
+- [`GPLv3+`](GPLv3+) per tutto il software "tradizionale"
+- [`BSD-3-clause`](BSD-3-clause) per le librerie
+- [`CC-BY-4`](CC-BY-4) per la documentazione
 
 Potete copiare e incollare il testo del file direttamente nel vostro repository
 
