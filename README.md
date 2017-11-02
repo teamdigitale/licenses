@@ -7,9 +7,9 @@ Questo repository contiene le licenze per il software sviluppato o rilasciato da
 Per applicare correttamente una licenza, Bisogna:
 
 - [ ] Selezionare una licenza
+- [ ] Copiarla nella root del repository, con nome `LICENSE`
 - [ ] Scegliere la linea di copyright a seconda del caso in cui vi trovate
 - [ ] Eventuali step ulteriori a seconda della licenza scelta
-- [ ] Copiarla nella root del repository, con nome `LICENSE`
 
 # Spiegazione
 
