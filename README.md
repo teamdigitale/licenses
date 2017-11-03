@@ -40,6 +40,18 @@ All other contributions:
 Copyright (c) 2017, the respective contributors, as shown by the version control
 ```
 
+**ATTENZIONE** È molto importante controllare che il software abbia paternità certa e tracciabile (e dunque non sia una modifica o un'integrazione rispetto a software già esistente). Nel caso lo fosse, è necessario controllare che i termini di licenza vengano rispettati, attribuendo correttamente il copyright agli eventuali attori terzi. Il modo migliore per fare ciò è integrare direttamente nel codice sorgente (ad esempio, ponendo un commento in cima a ogni file) l'attribuzione di paternità. Un esempio:
+```
+Initial import:
+Copyright (c) 2017 Project XXX
+Copyright (c) 2017 Project YYY
+Copyright (c) 2017 Agenzia per l'Italia Digitale
+as shown by the copyright notices embedded in the source code.
+
+All other contributions:
+Copyright (c) 2017, the respective contributors, as shown by the version control
+```
+
 ### Caso 2: software scritto da zero
 Questo caso è più semplice e ha bisogno soltanto di una riga, perché tutte le modifiche sono tracciate da git.
 ```
