@@ -4,12 +4,12 @@ Questo repository contiene le licenze per il software sviluppato o rilasciato da
 
 # Checklist in breve
 
-Per applicare correttamente una licenza, Bisogna:
+Per applicare correttamente una licenza, bisogna:
 
-- [ ] Selezionare una licenza
-- [ ] Copiarla nella root del repository, con nome `LICENSE`
-- [ ] Scegliere la linea di copyright a seconda del caso in cui vi trovate
-- [ ] Eventuali step ulteriori a seconda della licenza scelta
+- Selezionare una licenza
+- Copiarla nella root del repository, con nome `LICENSE`
+- Scegliere la linea di copyright a seconda del caso in cui vi trovate
+- Eventuali step ulteriori a seconda della licenza scelta
 
 # Spiegazione
 
