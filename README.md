@@ -30,7 +30,7 @@ Potete copiare e incollare il testo del file direttamente nel vostro repository
 Bisogna creare un file `README` o `README.md` che contenga, in coda, la riga di copyright corretta, e la seguente dicitura:
 
 ```
-Copyright (c) 2017, the respective contributors, as shown by the version control
+Copyright (c) 2017, the respective contributors, as shown by the AUTHORS file.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -49,7 +49,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Bisogna creare un file `README` o `README.md` che contenga, in coda, la riga di copyright corretta, e la seguente dicitura:
 
 ```
-Copyright (c) 2017, the respective contributors, as shown by the version control
+Copyright (c) 2017, the respective contributors, as shown by the AUTHORS file.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
