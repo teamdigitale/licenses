@@ -12,7 +12,7 @@ Per applicare correttamente una licenza, bisogna:
 
 # Spiegazione
 
-Per applicare una licenza al vostro repository, selezionare la licenza apposita e copiarla nella cartella principale del repository, con il nome `LICENSE`
+Per applicare una licenza al vostro repository, selezionare la licenza apposita e copiarla nella cartella principale del repository, con il nome `LICENSE`. Poi, sempre nella cartella principale copiare, adattandolo appositamente, il file `AUTHORS`.
 
 ## Selezionare una licenza
 
@@ -27,7 +27,7 @@ Potete copiare e incollare il testo del file direttamente nel vostro repository
 ## Step ulteriori
 
 ### GPLv3+
-Bisogna creare un file `README` o `README.md` che contenga, in coda, la riga di copyright corretta, e la seguente dicitura:
+Bisogna creare un file `README` o `README.md` che contenga, in coda, la seguente dicitura:
 
 ```
 Copyright (c) 2017, the respective contributors, as shown by the AUTHORS file.
@@ -46,7 +46,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 ### AGPLv3+
-Bisogna creare un file `README` o `README.md` che contenga, in coda, la riga di copyright corretta, e la seguente dicitura:
+Bisogna creare un file `README` o `README.md` che contenga, in coda, la seguente dicitura:
 
 ```
 Copyright (c) 2017, the respective contributors, as shown by the AUTHORS file.
