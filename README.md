@@ -7,7 +7,7 @@ Questo repository contiene le licenze per il software sviluppato o rilasciato da
 Per applicare correttamente una licenza, bisogna:
 
 1. scegliere una licenza tra quelle qui proposte;
-2. copiarla nella root del repository, con nome `LICENSE`;
+2. copiarla nella root del repository, con nome `LICENSE`
 3. creare e compilare il file `AUTHORS` sempre nella root del repository.
 
 ## Come scegliere la licenza
@@ -20,13 +20,15 @@ In particolare, è stato scelto di usare:
 
 ## Come compilare il file AUTHORS
 
-Il file AUTHORS contiene tre informazioni:
+Il file `AUTHORS` contiene tre informazioni:
 
 1. i **detentori di copyright**;
 2. i **detentori di diritti morali**: sono i nomi dei singoli autori del codice, in modo da riconoscere anche i loro diritti morali (che nel diritto italiano sono inalienabili) a prescindere dai detentori di copyright; in caso di lavoratori dipendenti o altro regime di subordinazione infatti il copyright è del datore di lavoro mentre i diritti morali restano all'autore effettivo;
 3. la dicitura *The version control system provides attribution for specific lines of code.* che rimanda allo storico del repository per la mappatura delle corrispondenze tra autori e singole porzioni di codice.
 
-Non è obbligatorio aggiungere il proprio nome alle due liste; è raccomandato solo per contributi di codice rilevanti. Tutti i contributi sono in ogni caso tracciati dal version control system, ma si potrebbero perdere in caso di distribuzioni del codice al di fuori di GitHub e inoltre dal solo storico dei commit non è chiaro se l'autore del commit abbia il copyright oppure no. È per questo che raccomandiamo il file AUTHORS per elencare i soggetti detentori di diritti.
+Non è obbligatorio aggiungere il proprio nome alle due liste; è raccomandato solo per contributi di codice rilevanti. Tutti i contributi sono in ogni caso tracciati dal version control system, ma si potrebbero perdere in caso di distribuzioni del codice al di fuori di GitHub e inoltre dal solo storico dei commit non è chiaro se l'autore del commit abbia il copyright oppure no. È per questo che raccomandiamo il file `AUTHORS` per elencare i soggetti detentori di diritti.
+
+Un esempio di file `AUTHORS` [è disponibile qui](AUTHORS)
 
 ## Step ulteriori
 
