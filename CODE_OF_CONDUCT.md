@@ -34,7 +34,6 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Violence, threats of violence or violent language directed against another person.
 *   Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 *   Posting or displaying sexually explicit or violent material.
-*   Posting or threatening to post other people’s personally identifying information ("doxing").
 *   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 *   Inappropriate photography or recording.
 *   Inappropriate physical contact. You should have someone’s consent before touching them.
@@ -53,17 +52,13 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. developers@teamdigitale.governo.it.
-
-
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. You can do so by e-mailing developers@teamdigitale.governo.it.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the managers of Developers Italia with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-
 
 ## 8. Scope
 
@@ -73,7 +68,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-developers@teamdigitale.governo.it
+You can reach the managers of Developers Italia at developers@teamdigitale.governo.it
 
 ## 10. License and attribution
 
