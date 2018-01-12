@@ -1,4 +1,4 @@
-# Code of Conduct (DRAFT)
+# Code of Conduct
 
 ## 1. Purpose
 
