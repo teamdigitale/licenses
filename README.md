@@ -17,6 +17,7 @@ In particolare, è stato scelto di usare:
 - [`GPLv3+`](GPLv3+) per tutto il software da usare in locale (ad es. desktop)
 - [`BSD-3-clause`](BSD-3-clause) per le librerie
 - [`CC-BY-4`](CC-BY-4) per la documentazione
+- [`CC-0`](CC-0) per le leggi
 
 ## Come compilare il file AUTHORS
 
