@@ -13,11 +13,11 @@ Per applicare correttamente una licenza, bisogna:
 ## Come scegliere la licenza
 
 In particolare, è stato scelto di usare:
-- [`AGPLv3+`](AGPLv3+) per tutto il software accessibile via web o che eroga un servizio via rete (es. servizio web)
-- [`GPLv3+`](GPLv3+) per tutto il software da usare in locale (ad es. desktop)
-- [`BSD-3-clause`](BSD-3-clause) per le librerie
-- [`CC-BY-4`](CC-BY-4) per la documentazione
-- [`CC-0`](CC-0) per le leggi
+- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) per tutto il software accessibile via web o che eroga un servizio via rete (es. servizio web)
+- [`GPL-3.0-or-later`](GPL-3.0-or-later) per tutto il software da usare in locale (ad es. desktop)
+- [`BSD-3-Clause`](BSD-3-Clause) per le librerie
+- [`CC-BY-4.0`](CC-BY-4.0) per la documentazione
+- [`CC0-1.0`](CC0-1.0) per le leggi
 
 ## Come compilare il file AUTHORS
 
@@ -33,7 +33,7 @@ Un esempio di file `AUTHORS` [è disponibile qui](AUTHORS)
 
 ## Step ulteriori
 
-### GPLv3+
+### GPL-3.0-or-later
 Bisogna creare un file `README` o `README.md` che contenga, in coda, la seguente dicitura:
 
 ```
@@ -52,7 +52,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
-### AGPLv3+
+### AGPL-3.0-or-later
 Bisogna creare un file `README` o `README.md` che contenga, in coda, la seguente dicitura:
 
 ```
