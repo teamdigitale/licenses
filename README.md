@@ -17,7 +17,7 @@ In particolare, è stato scelto di usare:
 - [`GPL-3.0-or-later`](GPL-3.0-or-later) per tutto il software da usare in locale (ad es. desktop)
 - [`BSD-3-Clause`](BSD-3-Clause) per le librerie
 - [`CC-BY-4.0`](CC-BY-4.0) per la documentazione
-- [`CC0-1.0`](CC0-1.0) per le leggi
+- [`CC0-1.0`](CC0-1.0) per le leggi e i documenti normativi
 
 ## Come compilare il file AUTHORS
 
