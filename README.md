@@ -2,9 +2,9 @@
 
 # How to use the licenses
 
-This repository contains the licenses for the software or released by the Digital Transformation Team, and also applies to the software present in Developers Italia. It has no value as a general recommendation for open source software of the PA.
+This repository contains the licenses for the software or released by the Digital Transformation Team. Unless there are strong and explicit reasons to make an exception, this list also applies to the software developed on [Developers Italia](https://github.com/italia).
 
-# Briefly
+# Brief summary
 
 To correctly apply a license, you must:
 
@@ -14,12 +14,12 @@ To correctly apply a license, you must:
 
 ## How to choose the license
 
-In particular, it was chosen to use:
-- [`AGPL-3.0-or-later`] (AGPL-3.0-or-later) for all software accessible via the web or providing a service via a network (eg web service)
-- [`GPL-3.0-or-later`] (GPL-3.0-or-later) for all software to be used locally (eg desktop)
-- [`BSD-3-Clause`] (BSD-3-Clause) for bookstores
-- [`CC-BY-4.0`] (CC-BY-4.0) for documentation
-- [`CC0-1.0`] (CC0-1.0) for laws and normative documents
+In particular, we suggest to use:
+
+- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) for all standalone software.
+- [`BSD-3-Clause`](BSD-3-Clause) for software libraries
+- [`CC-BY-4.0`](CC-BY-4.0) for documentation
+- [`CC0-1.0`](CC0-1.0) for laws, schemas and other normative documents
 
 ## How to fill in the AUTHORS file
 
@@ -34,25 +34,6 @@ It is not mandatory to add your name to the two lists; it is recommended only fo
 An example of the `AUTHORS` file [is available here](AUTHORS)
 
 ## Further steps
-
-### GPL-3.0-or-later
-You need to create a `README` or` README.md` file that contains, in the queue, the following text:
-```
-Copyright (c) the respective contributors, as shown by the AUTHORS file.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-```
 
 ### AGPL-3.0-or-later
 You need to create a `README` or` README.md` file that contains, in the queue, the following text:
