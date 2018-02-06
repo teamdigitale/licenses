@@ -2,7 +2,7 @@
 
 # Come usare le licenze
 
-Questo repository contiene le licenze per il software sviluppato o rilasciato dal Team per la Trasformazione Digitale, e vale come raccomandazione anche per il software presente in Developers Italia. Non ha valore di raccomandazione generale per il software open source della PA.
+Questo repository contiene le licenze per il software sviluppato o rilasciato dal Team per la Trasformazione Digitale, e vale come raccomandazione per il software sviluppato su [Developers Italia](https://github.com/italia).
 
 # In breve
 
@@ -15,11 +15,10 @@ Per applicare correttamente una licenza, bisogna:
 ## Come scegliere la licenza
 
 In particolare, è stato scelto di usare:
-- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) per tutto il software accessibile via web o che eroga un servizio via rete (es. servizio web)
-- [`GPL-3.0-or-later`](GPL-3.0-or-later) per tutto il software da usare in locale (ad es. desktop)
+- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) per tutto il software applicativo
 - [`BSD-3-Clause`](BSD-3-Clause) per le librerie
 - [`CC-BY-4.0`](CC-BY-4.0) per la documentazione
-- [`CC0-1.0`](CC0-1.0) per le leggi e i documenti normativi
+- [`CC0-1.0`](CC0-1.0) per le leggi, gli schemi e i documenti normativi
 
 ## Come compilare il file AUTHORS
 
@@ -35,25 +34,6 @@ Un esempio di file `AUTHORS` [è disponibile qui](AUTHORS)
 
 ## Step ulteriori
 
-### GPL-3.0-or-later
-Bisogna creare un file `README` o `README.md` che contenga, in coda, la seguente dicitura:
-
-```
-Copyright (c) the respective contributors, as shown by the AUTHORS file.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-```
 ### AGPL-3.0-or-later
 Bisogna creare un file `README` o `README.md` che contenga, in coda, la seguente dicitura:
 
