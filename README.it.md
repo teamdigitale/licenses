@@ -1,3 +1,5 @@
+# [- Read this in English -](README.md)
+
 # Come usare le licenze
 
 Questo repository contiene le licenze per il software sviluppato o rilasciato dal Team per la Trasformazione Digitale, e vale come raccomandazione anche per il software presente in Developers Italia. Non ha valore di raccomandazione generale per il software open source della PA.
