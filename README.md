@@ -25,9 +25,9 @@ In particular, we suggest to use:
 
 The `AUTHORS` file contains three information:
 
-1. the ** copyright holders **;
-2. ** moral rights holders **: are the names of the individual authors of the code, so as to recognize also their moral rights (which in Italian law are inalienable) regardless of the copyright holders; in the case of employees or other subordination regime, in fact, the copyright is the employer while the moral rights remain with the actual author;
-3. the words * The version control system provides references to the repository history for mapping the correspondences between authors and single portions of code.
+1. the **copyright holders**;
+2. **moral rights holders**: are the names of the individual authors of the code, so as to recognize also their moral rights (which in Italian law are inalienable) regardless of the copyright holders; in the case of employees or other subordination regime, in fact, the copyright is the employer while the moral rights remain with the actual author;
+3. the words "*The version control system provides references to the repository history for mapping the correspondences between authors and single portions of code*".
 
 It is not mandatory to add your name to the two lists; it is recommended only for relevant code contributions. All contributions are in any case tracked by the version control system, but they could be lost in case of distribution of the code outside of GitHub and moreover from the commit history alone it is not clear whether the author of the commit has the copyright or not. This is why we recommend the `AUTHORS` file to list the rights holders.
 
