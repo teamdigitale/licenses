@@ -36,7 +36,7 @@ An example of the `AUTHORS` file [is available here](AUTHORS)
 ## Further steps
 
 ### AGPL-3.0-or-later
-You need to create a `README` or` README.md` file that contains, in the queue, the following text:
+You need to create a `README` or` README.md` file that contains, at the bottom, the following text:
 
 ```
 Copyright (c) the respective contributors, as shown by the AUTHORS file.
