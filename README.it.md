@@ -15,7 +15,8 @@ Per applicare correttamente una licenza, bisogna:
 ## Come scegliere la licenza
 
 In particolare, è stato scelto di usare:
-- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) per tutto il software applicativo
+- [`EUPL-1.2`](EUPL-1.2) per tutto il software applicativo tradizionale, nativo e app mobile
+- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) per tutto il software applicativo utilizzato via rete
 - [`BSD-3-Clause`](BSD-3-Clause) per le librerie
 - [`CC-BY-4.0`](CC-BY-4.0) per la documentazione
 - [`CC0-1.0`](CC0-1.0) per le leggi, gli schemi e i documenti normativi
