@@ -16,7 +16,8 @@ To correctly apply a license, you must:
 
 In particular, we suggest to use:
 
-- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) for all standalone software.
+- [`EUPL-1.2`](EUPL-1.2) for all traditional software, native and mobile applications.
+- [`AGPL-3.0-or-later`](AGPL-3.0-or-later) for all standalone software used over the network.
 - [`BSD-3-Clause`](BSD-3-Clause) for software libraries
 - [`CC-BY-4.0`](CC-BY-4.0) for documentation
 - [`CC0-1.0`](CC0-1.0) for laws, schemas and other normative documents
