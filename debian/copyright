@@ -1,0 +1,5 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: *
+Copyright: The respective contributors, as shown by the AUTHORS file.
+License: CC0-1.0
