@@ -1,4 +1,4 @@
-# [- Read this in Italian -](README.it.md)
+# [- Leggi in italiano -](README.it.md)
 
 # How to use the licenses
 
